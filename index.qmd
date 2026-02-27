@@ -1,43 +1,38 @@
 ---
-title: "Turner Lab" 
+title: "Welcome to the Turner Lab" 
+image: images/lab_logo_text
+about: 
+  template: jolla
 ---
 
-![](Images/Lab%20Logo/lab_logo_text.png){width="387"}
+![Lab photo, Spring 2025](images/labphoto2025.jpg){style="float: right;" fig-alt="Turner lab photo, Spring 2025" fig-align="right" width="250"}
 
+
+**The Turner lab is a research lab at the Ohio State University in the Department of Psychiatry. The main mission of the lab is ____. Our goal is to ___.** 
+
+
+## Research Areas 
 ------------------------------------------------------------------------
 
-# Research Areas ![The brain is an ongoing puzzle!](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){width="375"}
+**The brain is an ongoing puzzle!** Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more [here](research.qmd).
 
-Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders.
 
-Basically we study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.
 
+## Current Projects
 ------------------------------------------------------------------------
 
-# ![](Images/BrainReadingGemini.jpg){width="250"} Publications
+* Cerebellar contributions to psychosis
+* Cerebellum and aging
+* Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
+* Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
 
-Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
 
-Social media: [Bluesky for Jessica Turner](https://bsky.app/profile/jessicaturnerphd.bsky.social)
+
+## Collaborators
+------------------------------------------------------------------------
+
+* List collaborators
 
 University link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
 
-------------------------------------------------------------------------
 
-# Current Projects
-
-Cerebellar contributions to psychosis
-
-Cerebellum and aging
-
-Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
-
-Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
-
-------------------------------------------------------------------------
-
-# Lab Personnel
-
-Spring, 2025
-
-![Lab personnel, Spring 2025](Images/labphoto2025.jpg)

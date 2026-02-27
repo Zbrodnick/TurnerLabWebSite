@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+This is our research.
+
+**Project 1** ![Caption of project](images/BrainReadingGemini.jpg){width="375"}
+
+blahblah
+
+**Project 2** 
+
+blahblah
+
+**Project 3** 
+
+blahblah
